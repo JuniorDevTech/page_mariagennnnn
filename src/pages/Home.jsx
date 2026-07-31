@@ -16,7 +16,6 @@ export default function Home() {
       <Schedule />
       <Gallery />
       <DressCode />
-      <RSVP />
       <Footer />
     </div>
   );
